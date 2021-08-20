@@ -1,0 +1,76 @@
+{
+  "apps": {
+    "darksky - jackadam.com": {
+      "total": 896,
+      "types": {
+        "location": 896
+      }
+    },
+    "mobile - connect.garmin.com": {
+      "total": 508,
+      "types": {
+        "location": 502,
+        "contacts": 6
+      }
+    },
+    "smartemail - readdle.com": {
+      "total": 132,
+      "types": {
+        "contacts": 132
+      }
+    },
+    "Telegraph - telegra.ph": {
+      "total": 134,
+      "types": {
+        "contacts": 66,
+        "photos": 6,
+        "camera": 32,
+        "microphone": 28,
+        "location": 2
+      }
+    },
+    "signal - whispersystems.org": {
+      "total": 18,
+      "types": {
+        "contacts": 18
+      }
+    },
+    "speedtest - ookla.com": {
+      "total": 6,
+      "types": {
+        "location": 6
+      }
+    },
+    "WidgetSmith - crossforward.com": {
+      "total": 22,
+      "types": {
+        "photos": 22
+      }
+    },
+    "natrium - avengemedia.com": {
+      "total": 4,
+      "types": {
+        "camera": 4
+      }
+    },
+    "Shazam - shazam.com": {
+      "total": 2,
+      "types": {
+        "microphone": 2
+      }
+    },
+    "GVDialer - google.com": {
+      "total": 12,
+      "types": {
+        "contacts": 12
+      }
+    }
+  },
+  "categories": {
+    "location": 1406,
+    "contacts": 234,
+    "camera": 36,
+    "microphone": 30,
+    "photos": 28
+  }
+}
